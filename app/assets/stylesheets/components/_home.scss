@@ -3,10 +3,10 @@
   top: 30;
 }
 
-// .home-img {
-//   top: 0;
-//   object-fit: cover;
-// }
+.home-img {
+  top: 0;
+  object-fit: cover;
+}
 
 
 .img-home{
@@ -63,4 +63,15 @@ h1 {
     font-size: 60px;
   }
 
+}
+
+.banner {
+ //  position: absolute;
+ //  top: 0;
+ // object-fit: cover;
+}
+.navbar{
+  justify-content: space-around;
+  // position: absolute;
+  // top: 30px;
 }
